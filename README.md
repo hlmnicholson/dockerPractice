@@ -1,6 +1,8 @@
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
+Tutorial followed: https://www.youtube.com/watch?v=hP77Rua1E0c
+Credit to: https://github.com/bradtraversy/docker-node-mongo
 
 ## Quick Start
 
@@ -18,6 +20,3 @@ volumes: ['./:/usr/src/app']
 # To re-build
 docker-compose build
 ```
-# dockerPractice
-# dockerPractice
-# dockerPractice
